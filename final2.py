@@ -2,7 +2,7 @@ import psycopg2
 import requests
 import os
 from psycopg2.extensions import AsIs
-import sqlalchemy
+
 import pandas
 
 with open('./config.json', 'r') as f:
