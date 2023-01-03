@@ -1,0 +1,16 @@
+cd desktop--------->change the directory
+mkdir --------->  creating new directory
+git clone repourl------->it saves the repository into over local 
+git init ----------> it is used to initialize the repository
+git status------> it shows the status of branch 
+git remote add origin url/ssh key -----------specifing connect remote origin to bash
+notepad 1.txt -------> open  notepad with text file extension u can give any extension like .py andso on 
+git branch branchname-->creating new branch 
+git add . -----------> adding all files in the folder 
+git add anyfile with extenstion--------->that will add any single file
+git commit -m "initial commit"-------->commiting that file to be added
+git push origin branchname-----------------> it will pushing local files to git repository/branch
+git pull origin branchname -------------> it is used when we create file in git environment that file have to save in our local environment the  pull command is used
+   
+
+git clone -b reponame --single-branch url nameoffile------>it will save single branch into local
